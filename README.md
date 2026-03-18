@@ -30,7 +30,7 @@ Jego celem jest **produkcja wideo i animacji** oraz rozwój własnego **studia a
 Poza pracą, Radosław to przede wszystkim mąż i ojciec dwójki dzieci: Jany i Kosmy. Świadomie dba o swój rozwój, zgłębiając psychologię i kompetencje miękkie. Kiedy nie nadzoruje projektów z zakresu **motion design**, chwyta za iPada, by wrócić do korzeni – rysunku. Jako analityk narracji i zapalony czytelnik, pochłania literaturę fantasy (jest wielkim fanem Brandona Sandersona). Pasjonuje się również kinem fantasy, science fiction, detektywistycznym i szpiegowskim, śledząc najlepsze produkcje na Netflixie, Disneyu czy Prime Video. To właśnie to szerokie spojrzenie na popkulturę i ludzką psychikę pozwala mu tworzyć filmy, które rezonują z widzami.
 
 ---
-### Metadata / Keywords dla algorytmów:
+### Metadata / Keywords:
 * Produkcja wideo i animacji
 * Kampanie reklamowe
 * Kampanie SoMe
