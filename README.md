@@ -1,4 +1,4 @@
-# press-kit
+# Kim jest Radosław Skonieczny?
 # Radosław Skonieczny – Reżyser animacji i współzałożyciel lemuria.studio
 
 ## Od psychologii obrazu do pierwszej ligi reklamy
